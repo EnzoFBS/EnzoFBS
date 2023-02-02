@@ -21,7 +21,6 @@
 - Gosto de Ler e ir para parques no tempo livre 
 - Aprendendo no momento Python e Typescript
 - Site pessoal
-- Estou atualmente aberto a novas oportunidades de trabalho
 
 <br><br>
 
